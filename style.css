@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dokdo&display=swap');
+
+body{
+	background-color: #80FFFB;
+	color: #fff;
+}
+
+.first{
+	font-size: 100;
+
+}
+
+.titWrap2{
+	font-size: 25px;
+}
+
+.titleWrap{
+	font-family: "Dokdo", system-ui;
+	font-size: 50px;
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.video{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
